@@ -110,7 +110,7 @@ weather_project/
 │       └── wsgi.py
 └── .github/
     └── workflows/
-        └── ci.yml                    # CI-конфигурация GitHub Actions
+        └── main.yml                    # CI-конфигурация GitHub Actions
 ```
 
 ## Автор
