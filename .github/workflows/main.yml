@@ -45,7 +45,7 @@ jobs:
           DB_NAME: agrodb
           DB_USER: agrouser
           DB_PASSWORD: secret
-          DB_HOST: localhost
+          DB_HOST: 127.0.0.1
           DB_PORT: 5432
           DEBUG: True
         run: |
