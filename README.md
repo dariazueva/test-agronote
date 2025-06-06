@@ -10,7 +10,6 @@ Django Weather App
 - Python 3.12
 - PostgreSQL
 - Django
-- OpenWeatherMap API
 - Docker / docker-compose
 - Ruff / Black / isort
 - GitHub Actions (CI)
