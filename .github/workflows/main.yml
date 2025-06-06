@@ -49,5 +49,6 @@ jobs:
           DB_PORT: 5432
           DEBUG: True
         run: |
+          cd weather_project
           python manage.py migrate --settings=src.weather_project.settings
           python manage.py test weather --settings=src.weather_project.settings
