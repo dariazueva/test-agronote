@@ -11,7 +11,9 @@ Django Weather App
 - PostgreSQL
 - Django
 - OpenWeatherMap API
-- Docker
+- Docker / docker-compose
+- Ruff / Black / isort
+- GitHub Actions (CI)
 
 ### Как запустить проект:
 
